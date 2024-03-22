@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: beige;
+}
+header h1{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: black;
+}
+header p{
+    font-weight: 20;
+
+}
+section img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+section div{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+footer{
+    margin-top: 15px;
+    text-align: center;
+    background: red;
+}
+p{
+    margin-left: 15px;
+}
+#quangcao img{
+    height: 50px;
+    width: 50%px;
+}
+#quangcao-1 img{
+    background-color: blue;
+    color: aliceblue;
+    font-size: 30px;
+    margin: 10px 10px;
+display: inline-block;
+}
+#quangcao{
+    background-color: blue;
+    color: aliceblue;
+    font-size: 30px;
+    margin: 10px 10px;
+}
+#tieude1{
+    text-decoration: none;
+}
